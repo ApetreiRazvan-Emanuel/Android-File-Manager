@@ -14,7 +14,7 @@ The Android File Manager is a multi-platform application developed using Flutter
 To get started with this project, clone the repository to your local machine:
 
 ```
-git clone (https://github.com/ApetreiRazvan-Emanuel/Android-File-Manager
+git clone https://github.com/ApetreiRazvan-Emanuel/Android-File-Manager
 ```
 
 ### Prerequisites
